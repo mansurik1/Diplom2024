@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diplom2024/static/css/main.666d8964.css",
+    "main.js": "/Diplom2024/static/js/main.483a7256.js",
+    "index.html": "/Diplom2024/index.html",
+    "main.666d8964.css.map": "/Diplom2024/static/css/main.666d8964.css.map",
+    "main.483a7256.js.map": "/Diplom2024/static/js/main.483a7256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666d8964.css",
+    "static/js/main.483a7256.js"
+  ]
+}
